@@ -12,7 +12,6 @@ You are a senior molecular biologist. Perform the task you are assigned.
 
 # Prompt template
 Classify this biology text as one of:
-
 - plant
 - animal
 - bacteria
